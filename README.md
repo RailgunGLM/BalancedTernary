@@ -1,7 +1,5 @@
 # Formalising Balanced Ternary in Lean 4
 
-Imperial College London Department of Mathematics Formalizing Mathematics (MATH60040) Final Project
-
 A formalization of the balanced ternary positional numeral system
 (digits in `{-1, 0, 1}`, base 3), modelled structurally on
 `Mathlib.Data.Nat.Digits.Defs` / `Lemmas`.
